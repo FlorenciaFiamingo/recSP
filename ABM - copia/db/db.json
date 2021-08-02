@@ -1,0 +1,44 @@
+{
+  "datos": [
+    {
+      "id": 1627682396694,
+      "titulo": "Mi alquiler",
+      "transaccion": "alquiler",
+      "descripcion": "Alquilo autito",
+      "precio": "120",
+      "puertas": "2",
+      "kilometros": "12000",
+      "potencia": "300"
+    },
+    {
+      "id": 1627685259090,
+      "titulo": "Venta",
+      "transaccion": "venta",
+      "descripcion": "Vendo Golf GTI",
+      "precio": "1234",
+      "puertas": "4",
+      "kilometros": "4444",
+      "potencia": "4"
+    },
+    {
+      "id": 1627645259090,
+      "titulo": "Alquiler",
+      "transaccion": "alquiler",
+      "descripcion": "Alquiler Golf GTI",
+      "precio": "12",
+      "puertas": "4",
+      "kilometros": "4444",
+      "potencia": "4"
+    },
+    {
+      "id": 1657685259090,
+      "titulo": "Venta",
+      "transaccion": "venta",
+      "descripcion": "Vendo Golf GTI",
+      "precio": "10000",
+      "puertas": "4",
+      "kilometros": "4444",
+      "potencia": "4"
+    }
+  ]
+}
